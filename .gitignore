@@ -1,15 +1,12 @@
 *.swp
 deps/
 ebin
-webapi.d
+test_hello_world_cowboy.d
 erl_crash.dump
 .erlang.mk/
 log/
 logs/
-priv/csv_payments
-priv/pdf_payments
 _rel/
 *.beam
 ct_log/
-priv/git_scenarios/*
 xrefr
